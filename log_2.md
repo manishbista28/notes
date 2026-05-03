@@ -14,10 +14,12 @@ Continuing on...
 
 7. Hepatotoxicity: Liver injury is separate from Liver Function. Changes in ALT reflect injury which can be kept in range but changes to bilirubin reflect strong enough alteration in function. 
 
-8. Mucositis: Females, those with AKI, seem to be more susceptible to Mucositis.
+8. Mucositis: Female and those with AKI seem more susceptible to Mucositis.
 
 9. TPMT and NUDT15: Small doses of 6MP is sufficient and higer doses super toxic. Yet this knowledge could make the person careful at raising doses and in turn make room for cancer to grow. Ooof..
 
 10. Mtx also has some SLC* transporter mutation gene that determines if someone can get rid of Mtx sooner. Also heard this is debatable.
 
 11. 80% survival rate for children and 40% for adults. These numbers do not reflect reality as much. Most people do not survive the treatment here. More on this..
+
+12. DNA-TG level gives measurement of progress in MT from 6-MP/Mtx. Ery-TG gives measurement of adherence.
