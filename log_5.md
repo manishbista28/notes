@@ -18,3 +18,14 @@ make note of liver, pancreas health, glucose levels, thrombocytosis, etc
 The difficult part here seems to be 
 - isolating the effect of hypersensitivity with sepsis
 - avoid toxic effects of drug in parallel with the effects of other drugs in the regimen
+
+
+Apparently 100 IU/L is rate at which Asparagine is produced. Therefore we try to maintain > 100 IU/L serum Asparaginase levels.
+Large doses, say 1500 IU/L ensures drug stays within permissible values i.e. > 100 IU/L for long despite half life reductions and immune system response
+Large doses also ensure trace amounts of drug crossess blood-brain barrier into CSF or asparagine produced there seeps out to plasma due to concentration gradient.
+
+Pegylated L-Asp hides it from being recognized and attacked by antibodies.
+It also ensures kidney doesn't excrete it right away.
+
+Toxicity effects of L-Asp is due to protein synthesis inhibition.
+So higher doses beyond a threshold do not add to the toxicity effect.
