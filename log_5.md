@@ -29,3 +29,9 @@ It also ensures kidney doesn't excrete it right away.
 
 Toxicity effects of L-Asp is due to protein synthesis inhibition.
 So higher doses beyond a threshold do not add to the toxicity effect.
+
+High levels of ammonia is neurotoxic so monitor its levels
+Clots in brain (CSVT) because not enough antithromobocin (AT-3), monitor AT-3 levels
+Digestive enzymes eat pancrease from within, dead cell forms breeding ground causing sepsis, monitor fibrinogen
+Liver can not produce enough albumin, and accumulates fat; run liver function tests
+Subsequent doses can trigger immune response and trigger anaphylactic shock; antihistamines
